@@ -7,12 +7,4 @@ const orderSchema = mongoose.Schema({
 });
 
 module.exports = mongoose.model('Order', orderSchema);
-<<<<<<< HEAD
-
-//test
-
-//freom 
-=======
-//sadfghj
-//test
->>>>>>> 852ddc2d29e3fe457f5ce2f27c7854ef968b263e
+//from
