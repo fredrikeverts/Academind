@@ -13,3 +13,4 @@ module.exports = mongoose.model('Order', orderSchema);
 //from git 20180726
 //git push from local
 //git push 0632
+//git add .
