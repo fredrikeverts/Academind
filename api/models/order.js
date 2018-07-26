@@ -14,3 +14,5 @@ module.exports = mongoose.model('Order', orderSchema);
 //git push from local
 //git push 0632
 //git add .
+//git commit -m "git add 0624"
+//to make it added to repo git push
